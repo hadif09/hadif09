@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadif09&show_icons=true&theme=dark&locale=en&layout=compact" alt="hadif09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadif09&show_icons=true&locale=en" alt="hadif09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadif09&show_icons=true&theme=dark&locale=en" alt="hadif09" /></p>
