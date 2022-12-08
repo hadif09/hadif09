@@ -13,6 +13,8 @@
 
 - ✨ How to reach me **hadifiqbal1133@gmail.com**
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/656106060792201227?bg=000000)](https://discord.com/users/656106060792201227)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hadif092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadif092" height="30" width="40" /></a>
